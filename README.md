@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/c3357969-3e22-42e8-9c0a-0eca4bd02833
+
 # IS 17021 Fuel Adulteration & Ethanol Decoupling Workbench
 
 This project is an IoT sensor simulation and two-stage residual verification system designed to detect illegal kerosene adulteration in E20 petrol blends, adhering to the IS 17021:2026 standard. 
